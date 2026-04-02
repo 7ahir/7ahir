@@ -1,16 +1,17 @@
-## Hi there 👋
+## Tahir T.
 
-<!--
-**7ahir/7ahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build infrastructure for markets that don't have it yet.
 
-Here are some ideas to get you started:
+Currently in stealth. Working on financial rails for African agricultural
+cooperatives — the layer most fintech skips.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The work above is my AI PM portfolio: product strategy, evals, and delivery
+in regulated cloud and enterprise AI environments.
+
+If you're an investor or operator in African fintech or emerging market
+infrastructure — [let's talk](https://linkedin.com/in/tahirt).
+```
+
+4. **Update your profile bio** (sidebar): go to Edit profile → Bio field → type:
+```
+Building fintech infrastructure for Africa. AI PM. Paris.
